@@ -1,0 +1,31 @@
+:root {
+    --pink: #EDAFB8;
+    --champagne: #F7E1D7;
+    --lightGreen: #DEDBD2;
+    --green: #B0C4B1;
+    --deepSpace: #4A5759;
+}
+
+body {
+    background-color: var(--green);
+}
+
+.bg-lightG {
+    background-color: var(--lightGreen);
+}
+
+.bg-pink {
+    background-color: var(--pink);
+}
+
+.bg-cham {
+    background-color: var(--champagne);
+}
+
+.bg-green {
+    background-color: var(--green);
+}
+
+.bg-deep {
+    background-color: var(--deepSpace);
+}
